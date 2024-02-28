@@ -1,0 +1,14 @@
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\Local-Lab\Workspace\LAB\Chals\Playground\rapid_seven\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
